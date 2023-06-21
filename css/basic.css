@@ -1,44 +1,47 @@
-.newlecture section {
-    width: 90%;
-    max-width: 40rem;
-  
-  
-    background-color: #fff;
-  
-  
-    margin: 2rem auto;
-    padding: 1rem;
-  
-  
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
-    border-radius: 10px;
-  
-  
-    text-align: center;
-  }
-  
-  
-  .newlecture section h1 {
-    margin: 0.5rem;
-  }
-  
-  
-  .newlecture div {
-    width: 90%;
-    max-width: 40rem;
-  
-  
-    background-color: #f0f0f6;
-  
-  
-    margin: 2rem auto;
-    padding: 1rem;
-  
-  
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
-    border-radius: 10px;
-  
-  
-    text-align: center;
-  }
-  
+.newlecture section,
+.newlecture ul,
+.newlecture form,
+.newlecture p,
+.newlecture table {
+  width: 90%;
+  max-width: 40rem;
+
+  background-color: #fff;
+
+  margin: 2rem auto;
+  padding: 1rem;
+
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 10px;
+
+  text-align: center;
+}
+
+.newlecture caption {
+}
+.newlecture table {
+  background-color: antiquewhite;
+}
+
+.newlecture section h1 {
+  margin: 4px;
+}
+
+.newlecture div {
+  width: 90%;
+  max-width: 40rem;
+
+  background-color: #f0f0f6;
+
+  margin: 2rem auto;
+  padding: 1rem;
+
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 10px;
+
+  text-align: center;
+}
+
+.newlecture h1 {
+  font-size: 24px;
+}
