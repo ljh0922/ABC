@@ -2,7 +2,10 @@
 .newlecture ul,
 .newlecture form,
 .newlecture p,
-.newlecture table {
+.newlecture table,
+.newlecture header,
+.newlecture main,
+.newlecture footer {
   width: 90%;
   max-width: 40rem;
 
@@ -42,6 +45,8 @@
   text-align: center;
 }
 
-.newlecture h1 {
+.newlecture h1,
+.newlecture section h1,
+.newlecture header h1 {
   font-size: 24px;
 }
