@@ -1,13 +1,56 @@
 :root {
-    /* ========== color palette ===========  */
-    --color-main-0: #55027D;
-    --color-main-0: #4E4BDD;
-    --color-main-0: #FFD336;
-    --color-main-0: #069F0A;
-    --color-main-0: rgba(0, 0, 0, 0.6);
-    --color-black-0:
+    /* ========== color main palette ===========  */
+    --color-main-1: #E40000;
+    --color-main-2: #FFD336;
+    --color-main-2-1: #FBBC19;
+    --color-main-2-2: #FDDD8C;
+    --color-main-2-3: #F9F1DC;
+    --color-main-3: #069F0A;
+    --color-main-3-1: #2B4E2B;
+    --color-main-4: #4E4BDD;
+    --color-main-4-1: #CAC9F5;
+    --color-main-4-2: #CFCFF6;
+    --color-main-4-3: #F5F8FF;
+    --color-main-5: #55027D;
+    --color-main-5-1: #850EAE;
+    --color-main-6: #212AF8;
+    --color-main-6-1: #00C2FF;
+    --color-main-6-2: #7CC8E9;
 
-        /* base color */
+    /* ========== color base palette ========== */
+    --color-base-1: #E5E5E5;
+    --color-base-2: #F5F5F5;
+    --color-base-3: #F0F0F0;
+    --color-base-4: #ECECEC;
+    --color-base-5: #BFBCBC;
+    --color-base-6: #828282;
+    --color-base-7: #606060;
 
-        /* radius size */
+    /* ========== color black & white palette ========== */
+    --color-white: #FFFFFF;
+    --color-black: #000000;
+
+    /* ========== color font ========== */
+    --color-font-1: #333333;
+    --color-font-2: #828282;
+
+    /* ========== color line ========== */
+    --color-line-1: #A7A7A7;
+
+    /* ========== radius size ========== */
+    --radius-size-5: 5;
+    --radius-size-8: 8;
+    --radius-size-10: 10;
+    --radius-size-15: 15;
+    --radius-size-20: 20;
+    --radius-size-30: 30;
+    --radius-size-50: 50;
+
+    /* ========== font size ========== */
+    --font-size-11: 11;
+    --font-size-12: 12;
+    --font-size-14: 14;
+    --font-size-15: 15;
+    --font-size-17: 17;
+    --font-size-20: 20;
 }
