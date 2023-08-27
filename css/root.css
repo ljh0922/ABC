@@ -53,4 +53,19 @@
     --font-size-15: 15;
     --font-size-17: 17;
     --font-size-20: 20;
+
+    /* ========== icon size ========== */
+    --icon-size-6: 6px;
+    --icon-size-12: 12px;
+    --icon-size-17: 17px;
+    --icon-size-18: 18px;
+    --icon-size-19: 19px;
+    --icon-size-20: 20px;
+    --icon-size-22: 22px;
+    --icon-size-24: 24px;
+    --icon-size-28: 28px;
+    --icon-size-29: 29px;
+    --icon-size-30: 30px;
+    --icon-size-36: 36px;
+    --icon-size-40: 40px;
 }
