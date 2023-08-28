@@ -38,21 +38,21 @@
     --color-line-1: #A7A7A7;
 
     /* ========== radius size ========== */
-    --radius-size-5: 5;
-    --radius-size-8: 8;
-    --radius-size-10: 10;
-    --radius-size-15: 15;
-    --radius-size-20: 20;
-    --radius-size-30: 30;
-    --radius-size-50: 50;
+    --radius-size-5: 5px;
+    --radius-size-8: 8px;
+    --radius-size-10: 10px;
+    --radius-size-15: 15px;
+    --radius-size-20: 20px;
+    --radius-size-30: 30px;
+    --radius-size-50: 50px;
 
     /* ========== font size ========== */
-    --font-size-11: 11;
-    --font-size-12: 12;
-    --font-size-14: 14;
-    --font-size-15: 15;
-    --font-size-17: 17;
-    --font-size-20: 20;
+    --font-size-11: 11px;
+    --font-size-12: 12px;
+    --font-size-14: 14px;
+    --font-size-15: 15px;
+    --font-size-17: 17px;
+    --font-size-20: 20px;
 
     /* ========== icon size ========== */
     --icon-size-6: 6px;
